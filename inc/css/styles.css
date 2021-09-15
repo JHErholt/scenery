@@ -34,7 +34,7 @@ main{min-height: 86vh;}
 .info__box h2{font-family: 'Cantora One', sans-serif;padding-top: .5em;padding-bottom: 2em;font-size: 2em;}
 .info__box p{font-size: 1.6em;padding-bottom: 2em;}
 
-.info__wrapper{width: 60%;margin-left: auto; margin-right: auto;padding-top: 5em;text-align: center;}
+.info__wrapper{width: 60%;margin-left: auto; margin-right: auto;padding-top: 2em;text-align: left;}
 
 .nature-image__box :hover{background-color: #0000009d;}
 .nature-image__box{cursor: pointer;background-image: url(/assets/home_pics/banner__picture-small.jpg);background-repeat: no-repeat;background-size: cover;}
