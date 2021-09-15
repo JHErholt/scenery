@@ -31,7 +31,7 @@ main{min-height: 86vh;}
 .banner-image__box{background-image: url(/assets/home_pics/banner__2560-small.jpg);background-repeat: no-repeat;background-size: cover;}
 
 .info__box{font-family: 'Open Sans', sans-serif;}
-.info__box h2{font-family: 'Cantora One', sans-serif;padding-top: .5em;padding-bottom: 2em;font-size: 2em;}
+.info__box h2{font-family: 'Cantora One', sans-serif;padding-top: .5em;padding-bottom: 2em;font-size: 2em;text-align: center;}
 .info__box p{font-size: 1.6em;padding-bottom: 2em;}
 
 .info__wrapper{width: 60%;margin-left: auto; margin-right: auto;padding-top: 2em;text-align: left;}
@@ -67,7 +67,7 @@ footer{min-height: 26vh;background-color: rgb(46, 46, 46);color: white;font-fami
 @media only screen and (min-width: 1024px){
     .text-decoration{text-decoration:none; }
     .image-size{width: 48%;margin:auto;padding: .5em;}
-    .info__box h2{padding-top: 10em;}
+    .info__box h2{padding-top: 3em;}
 }
 @media only screen and (min-width: 1600px){
     /* Header */
